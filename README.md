@@ -6,10 +6,11 @@ Api para um sistema de compras on-line
  - configurar o banco de dados na aplicação
  - criar o banco de dados e suas tabelas (MySQL)
  
- --Configurar application.properties                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ --Configurar application.properties--                                                                                                                                                           
         // Caminho do banco de dados                                                                                                                                                
         spring.datasource.url=                                                                                                                                                                                                                                            
         // Usuário do banco de dados                                                                                                                                                
         spring.datasource.username=                                                                                                                                                             
         // Senha do banco de dados                                                                                                                                                      
         spring.datasource.password=                                                                                                                                                          
+ --Criar o banco de dados e suas tabelas (MySQL)--   
