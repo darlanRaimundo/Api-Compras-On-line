@@ -6,7 +6,7 @@ Api para um sistema de compras on-line
  - configurar o banco de dados na aplicação
  - criar o banco de dados e suas tabelas (MySQL)
  
- --Configurar application.properties
+ --Configurar application.properties                                                                                                                                                
  spring.datasource.url=jdbc:mysql://localhost:3306/desafio_schema                                                                                                                    
  spring.datasource.username=root                                                                                                                                                    
  spring.datasource.password=nagini100
