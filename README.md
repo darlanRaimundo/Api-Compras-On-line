@@ -8,5 +8,5 @@ Api para um sistema de compras on-line
  
  --Configurar application.properties
  spring.datasource.url=jdbc:mysql://localhost:3306/desafio_schema                                                                                                                    
- spring.datasource.username=root
+ spring.datasource.username=root                                                                                                                                                    
  spring.datasource.password=nagini100
