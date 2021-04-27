@@ -24,10 +24,10 @@
  Exemplo:
  ![Autenticado](https://i.imgur.com/XOIPYRb.png)                                                                                                                                  
 **Feito isso o adm terá permissão para utilizar os endpoints:**                                                                                                                      
-  - localhost:8080/produtos           *POST*
-  - localhost:8080/categorias         *POST*
-  - localhost:8080/descontos          *POST* 
+  - localhost:8080/produtos           *Método POST*
+  - localhost:8080/categorias         *Método POST*
+  - localhost:8080/descontos          *Método POST* 
                                                                                                                                                                                   
 **No caso do cadatro de clientes, os endpoints de cadastro de clientes e inclusão de produtos no carrinho não é necessario autenticação.**                                         
- - localhost:8080/clientes
- - localhost:8080/clientes/carrinho
+ - localhost:8080/clientes *Método POST*
+ - localhost:8080/clientes/carrinho *Método POST*
