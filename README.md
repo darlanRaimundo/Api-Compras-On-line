@@ -3,8 +3,8 @@
 
 ### Para testar e rodar a API, será necessário:   
  
- #### - configurar o banco de dados na aplicação
- #### - criar o banco de dados e suas tabelas (MySQL)
+ #### 1 - configurar o banco de dados na aplicação
+ #### 2 - criar o banco de dados e suas tabelas (MySQL)
  
  --Configurar application.properties--                                                                                                                                                           
         // Caminho do banco de dados                                                                                                                                                
