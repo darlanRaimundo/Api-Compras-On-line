@@ -22,4 +22,4 @@
  Key=Authorization                                                                                                                                                                
  Value= Bearer {chave}                                                                                                                                                            
  Exemplo:
- 
+ ![Autenticado](https://i.imgur.com/XOIPYRb.png)
