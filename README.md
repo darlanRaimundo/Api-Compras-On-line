@@ -1,10 +1,10 @@
 # Api-Compras-On-line
-Api para um sistema de compras on-line
+## Api para um sistema de compras on-line
 
- Para testar e rodar a API, será necessário:   
+### Para testar e rodar a API, será necessário:   
  
- - configurar o banco de dados na aplicação
- - criar o banco de dados e suas tabelas (MySQL)
+ #### - configurar o banco de dados na aplicação
+ #### - criar o banco de dados e suas tabelas (MySQL)
  
  --Configurar application.properties--                                                                                                                                                           
         // Caminho do banco de dados                                                                                                                                                
