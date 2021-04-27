@@ -23,8 +23,11 @@
  Value= Bearer {chave}                                                                                                                                                            
  Exemplo:
  ![Autenticado](https://i.imgur.com/XOIPYRb.png)                                                                                                                                  
-**Feito isso o adm terá permissão para utilizar as endpoints:**                                                                                                                      
-  - localhost:8080/produtos
-  - localhost:8080/categorias
-  - localhost:8080/descontos
-
+**Feito isso o adm terá permissão para utilizar os endpoints:**                                                                                                                      
+  - localhost:8080/produtos           *POST*
+  - localhost:8080/categorias         *POST*
+  - localhost:8080/descontos          *POST* 
+                                                                                                                                                                                  
+**No caso do cadatro de clientes, os endpoints de cadastro de clientes e inclusão de produtos no carrinho não é necessario autenticação.**                                         
+ - localhost:8080/clientes
+ - localhost:8080/clientes/carrinho
