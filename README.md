@@ -22,4 +22,8 @@
  Key=Authorization                                                                                                                                                                
  Value= Bearer {chave}                                                                                                                                                            
  Exemplo:
- ![Autenticado](https://i.imgur.com/XOIPYRb.png)
+ ![Autenticado](https://i.imgur.com/XOIPYRb.png)                                                                                                                                  
+**Feito isso o adm terá permissão para utilizar as endpoints:**                                                                                                                     - localhost:8080/produtos
+  - localhost:8080/categorias
+  - localhost:8080/descontos
+
