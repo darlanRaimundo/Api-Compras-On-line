@@ -18,5 +18,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Neste sistema, o usuario administrador terá que ser autenticado para realizar o cadastro de produtos, categorias de produtos e descontos**                                                                                                                                                                                                                            Para isso é necessário utilizar a url de autenticação: localhost:8080/authenticate, informando "username" e "password" num formato json: como no exemplo a seguir
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Autenticar](https://i.imgur.com/7Tobvex.png)
