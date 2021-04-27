@@ -14,4 +14,4 @@
         // Senha do banco de dados                                                                                                                                                      
         spring.datasource.password=                                                                                                                                                          
  #### Criar o banco de dados e suas tabelas (MySQL)                                                                                                                                          
-   todos os scripts para criação do banco e tabelas está no arquivo scripts.sql      
+   **todos os scripts para criação do banco e tabelas está no arquivo scripts.sql**      
