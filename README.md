@@ -17,4 +17,4 @@
    *todos os scripts para criação do banco e tabelas está no arquivo scripts.sql*      
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-** Neste sistema, o usuario administrador terá que ser autenticado para realizar o cadastro de produtos, categorias de produtos e descontos **                                                                                                                                                                                                                            Para isso é necessário utilizar a url de autenticação: localhost:8080/authenticate     
+**Neste sistema, o usuario administrador terá que ser autenticado para realizar o cadastro de produtos, categorias de produtos e descontos**                                                                                                                                                                                                                            Para isso é necessário utilizar a url de autenticação: localhost:8080/authenticate     
